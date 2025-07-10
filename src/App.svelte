@@ -12,18 +12,18 @@
         "https://i.imgur.com/NsfRd7R.jpeg",
       title: "Traveling",
       description:
-        "I love going on the plane to travel new states, especially during sunsets!",
+        "I mainly enjoy traveling to see the beautiful view at night in the plane!",
     },
     {
       image: "https://i.imgur.com/Bc7dodq.jpeg",
       title: "Baking",
-      description: "Baking allows me to be creative and test taste new recipes for family gatherings!",
+      description: "Baking allows me to test taste new recipes for family gatherings!",
     },
     {
       image: "https://i.imgur.com/5HGNyUF.jpeg",
       title: "Drawing",
       description:
-        "I enjoy drawing what my heart desires, allowing me to be expressive!",
+        "I enjoy drawing because there's no right or wrong way to draw something!",
     },
   ];
 </script>
