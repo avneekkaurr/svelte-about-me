@@ -30,7 +30,7 @@
 
 <style>
   h1 {
-    color: #2c3e50;
+    color: #4f3765;
     font-family: Arial, sans-serif;
   }
   .container {
@@ -46,7 +46,7 @@
     flex-wrap: wrap;
   }
   .hobby {
-    background-color: #3498db;
+    background-color: #ac78dd;
     color: white;
     padding: 10px 15px;
     border-radius: 5px;
