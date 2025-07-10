@@ -14,7 +14,7 @@
       overflow: hidden;
       width: 300px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      margin: 20px;
+      margin: 20px auto;
       text-align: center;
     }
   
